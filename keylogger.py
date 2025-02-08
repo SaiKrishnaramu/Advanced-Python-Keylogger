@@ -53,7 +53,7 @@ toaddr = ""
 
 key = ""
 
-file_path = "C:\\Users\\saikr\\PycharmProjects\\Python Project\\project"
+file_path = ""
 extend = "\\"
 file_merge = file_path+ extend
 
