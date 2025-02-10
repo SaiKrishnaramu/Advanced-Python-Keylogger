@@ -33,4 +33,22 @@ Run the following command to install all required dependencies:
 
 ```bash
 pip install pynput pywin32 Pillow sounddevice scipy cryptography requests
+```
+## Usage
+
+### Run the Script
+
+Execute the script using Python:
+
+```bash
+python keylogger.py
+```
+
+### Monitoring
+The script will start capturing keystrokes, clipboard data, microphone audio, and screenshots.
+
+The captured data will be encrypted and sent to the specified email address at regular intervals.
+
+### Stoping the Script
+The script will stop after a specified number of iterations ``` (number_of_iterations_end)```.
 
