@@ -52,3 +52,13 @@ The captured data will be encrypted and sent to the specified email address at r
 ### Stoping the Script
 The script will stop after a specified number of iterations ``` (number_of_iterations_end)```.
 
+## Code Overview
+
+- **Email Sending**:  The ```send_email``` function sends the captured data as an email attachment.
+- **System Information**: The ```computer_information``` function gathers and logs system information.
+- **Cipboard Monitoring**: The ```copy_clipboard``` function logs the contents of the clipboard.
+- **Microphone Recording**: The ```microphone``` function records audio from the microphone.
+- **Screenshot Capture**: The ```screenshot``` function takes screenshots of the user's screen.
+- **Keystroke Logging**: The ```on_press``` and ```on_release``` functions capture and log keystrokes.
+- **Data Encryption**: The captured data is encrypted using the Fernet symmetric encryption algorithm.
+
